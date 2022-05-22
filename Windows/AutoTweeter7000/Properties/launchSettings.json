@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutoTweeter7000 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AutoTweeter7000 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
