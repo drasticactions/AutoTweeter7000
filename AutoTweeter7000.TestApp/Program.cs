@@ -4,9 +4,9 @@ using CoreTweet;
 
 Console.WriteLine("Test Tweet!!");
 
-var consumerToken = "";
+var consumerToken = TwitterAuthValues.ConsumerKey;
 
-var consumerSecret = "";
+var consumerSecret = TwitterAuthValues.ConsumerSecret;
 
 var client = new CoreTweetClient(consumerToken, consumerSecret);
 
